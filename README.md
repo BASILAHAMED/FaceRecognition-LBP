@@ -8,3 +8,4 @@ https://www.geeksforgeeks.org/face-recognition-with-local-binary-patterns-lbps-a
 ```
 
 Happy Learning Geeks 👏
+Feel free to comment your valuable feedback below that article page
